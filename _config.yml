@@ -2,7 +2,7 @@ title:             FtkZKrtn's Blog
 email:             fatih@karatana.com
 description:       A Blog Theme by Start Bootstrap
 author:            Start Bootstrap
-baseurl:           "/blog"
+baseurl:           "/"
 url:               "https://fthzkrtn.github.io"
 
 # Social Profiles
